@@ -1,0 +1,23 @@
+{
+  "name": "startingwithdatabase",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chris-Merced/startingWithDatabase.git"
+  },
+  "author": "Chris Merced",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Merced/startingWithDatabase/issues"
+  },
+  "homepage": "https://github.com/Chris-Merced/startingWithDatabase#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
