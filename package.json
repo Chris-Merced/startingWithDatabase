@@ -17,6 +17,7 @@
   "homepage": "https://github.com/Chris-Merced/startingWithDatabase#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.21.0",
     "pg": "^8.13.0"

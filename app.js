@@ -1,3 +1,6 @@
+require('dotenv').config()
+console.log(process.env.CONNECTION_KEY)
+
 const express = require("express");
 const app = express();
 const db = require("./db/queries");
